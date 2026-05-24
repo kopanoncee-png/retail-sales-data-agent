@@ -6,7 +6,7 @@ This project involved building a Retail Sales Data Agent using Databricks to ana
 ## Tools Used
 - Databricks
 - SQL
-- Databricks AI/BI Genie
+- Databricks Genie spaces
 - GitHub
 - Microsoft Word
 
